@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		0A0FAB4B2AD440F3007FDF43 /* CardProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CardProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A0FAB4E2AD440F3007FDF43 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		0A0FAB552AD542E2007FDF43 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		0A0FAB4D2AD440F3007FDF43 /* CardProject */ = {
 			isa = PBXGroup;
 			children = (
+				0A0FAB552AD542E2007FDF43 /* Header.h */,
 				0A0FAB4E2AD440F3007FDF43 /* main.c */,
 			);
 			path = CardProject;

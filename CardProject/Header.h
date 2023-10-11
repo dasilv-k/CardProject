@@ -8,8 +8,15 @@
 #ifndef Header_h
 #define Header_h
 
-void StartApp();
-void EndApp();
+struct Card;
+
+void StartApp(void);
+void MainMenu(void);
+void LoadGame(void);
+void StartGame(void);
+int PullCard(void);
+void EndApp(void);
+
 
 
 #endif /* Header_h */
